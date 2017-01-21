@@ -6,7 +6,7 @@ using MongoDB.Driver.Linq;
 using MongoDB.Bson;
 using System.Configuration;
 
-namespace Utility
+namespace VOS
 {
     public class SelectParams
     {
@@ -218,10 +218,10 @@ namespace Utility
         }
         public List<List<ReturnResult>> GetDetails(List<BsonDocument> returnDetails)
         {
-            List<List<ReturnResult>> multiResults = new List<List<Utility.ReturnResult>>();
+            List<List<ReturnResult>> multiResults = new List<List<VOS.ReturnResult>>();
             foreach (var singleResult in returnDetails)
             {
-                List<ReturnResult> returnResults = new List<Utility.ReturnResult>();
+                List<ReturnResult> returnResults = new List<VOS.ReturnResult>();
                 var subRestuls = singleResult.Elements.ToList();
                 foreach (var singleSub in subRestuls)
                 {

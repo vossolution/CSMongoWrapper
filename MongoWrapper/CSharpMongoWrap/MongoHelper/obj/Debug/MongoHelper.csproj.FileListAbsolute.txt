@@ -15,6 +15,5 @@ E:\Venkatesan\GITHUB\Projects\MongoWrapper\CSharpMongoWrap\MongoHelper\bin\Debug
 E:\Venkatesan\GITHUB\Projects\MongoWrapper\CSharpMongoWrap\MongoHelper\bin\Debug\MongoDB.Driver.GridFS.xml
 E:\Venkatesan\GITHUB\Projects\MongoWrapper\CSharpMongoWrap\MongoHelper\bin\Debug\MongoDB.Driver.Legacy.pdb
 E:\Venkatesan\GITHUB\Projects\MongoWrapper\CSharpMongoWrap\MongoHelper\bin\Debug\MongoDB.Driver.Legacy.xml
-E:\Venkatesan\GITHUB\Projects\MongoWrapper\CSharpMongoWrap\MongoHelper\obj\Debug\MongoHelper.csprojResolveAssemblyReference.cache
 E:\Venkatesan\GITHUB\Projects\MongoWrapper\CSharpMongoWrap\MongoHelper\obj\Debug\MongoHelper.dll
 E:\Venkatesan\GITHUB\Projects\MongoWrapper\CSharpMongoWrap\MongoHelper\obj\Debug\MongoHelper.pdb
